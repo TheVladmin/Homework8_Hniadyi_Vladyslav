@@ -20,8 +20,8 @@ module.exports = defineConfig({
     },
     baseUrl: "https://api.clickup.com/api/v2",
     env: {
-      token: 'pk_200518265_UYAI0U1ZG3E7VEGYIMB4VGQ1BZ7XQISV',
-      team_id: '90151237972',
+      token: 'pk_200560026_VKUWQJL9H8ZFATE4LQM8HMW8RRLL1M7Z',
+      team_id: '90151250054',
       goalName: faker.internet.username(),
       goalDescription: faker.internet.username(),
       goalName2: faker.internet.username(),
